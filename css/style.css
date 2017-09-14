@@ -19,7 +19,7 @@ li {
     font-size: 12px;
 }
 
-.top-bar {
+#top-bar {
     background: url('grfx/header.jpg');
     padding: 20px;
 }
